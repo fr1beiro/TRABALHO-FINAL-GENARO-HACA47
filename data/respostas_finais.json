@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "pergunta": "O que são Atividades Complementares (AC) no BI da UFBA?",
+        "resposta_referencia": "São componentes curriculares obrigatórios que ampliam a formação acadêmica, incluindo cursos, eventos, monitorias, extensão e pesquisa.",
+        "resposta_ia_ufba": "Art. 3o. As Atividades Complementares podem ser promovidas pela UFBA e por outras instituiçes. Aquelas certificadas pela UFBA têm sua carga horária aprovada de acordo como Anexo I. Art. 4o. As Atividades Complementares assumem como sua fundamento que a formaço do estudante no se proceda à integralizaço curricular. Art. 8. As Atividades Complementares sero analisadas pelos respectivos colegiados de curso e validadas conforme a Anexo I desta resoluço.  1o. O estágio poderá ser validado em atestado e em"
+    },
+    {
+        "id": 2,
+        "pergunta": "Quantas horas de AC são necessárias para concluir o Bacharelado Interdisciplinar?",
+        "resposta_referencia": "São necessárias 200 horas de Atividades Complementares para integralizar o BI.",
+        "resposta_ia_ufba": "A presente Resoluço substitui a Resoluço n.o 01/2016 – IHAC e se aplica a todos os estudantes dos Bacharelados Interdisciplinares do IHAC, independente do seu ano de ingresso, salvo nas condiçes previstas nas disposiçes transitórias. de cada Bacharelado Interdisciplinar. Art. 2o. As Atividades Complementares compreendem experiências de participaço em seminários, congressos, cursos, encontros culturais e atividades artsticos, organizaço de eventos, pesquisas, con ou sem bolsa de iniciaço cientfica, projectos de aço comunitária, desenvolvimento e"
+    },
+    {
+        "id": 3,
+        "pergunta": "Como posso comprovar minhas atividades complementares?",
+        "resposta_referencia": "A comprovação é feita por meio de certificados ou declarações oficiais enviados pelo SIGAA na aba 'Atividades Complementares'.",
+        "resposta_ia_ufba": " 1o. O estágio poderá ser validado em 180 anos da carga horária total exigida para as Atividades Complementares, com base em atestado e em"
+    },
+    {
+        "id": 4,
+        "pergunta": "Quais tipos de atividades podem ser validadas como AC?",
+        "resposta_referencia": "Atividades de extensão, pesquisa, monitoria, curso livre, participação em eventos acadêmicos, CA, oficinas e atividades da PROEXT.",
+        "resposta_ia_ufba": " 3o Das receitas geradas por atividades pertinentes ao rgo Complementar, um percentual de repasse à Unidade Universitária deverá ser definido pela Congregaço, salvo nos casos en que haja impedimento de natureza legal ou quando os recursos seja apenas suficientes ao desenvolvimento das atividades."
+    },
+    {
+        "id": 5,
+        "pergunta": "A UFBA aceita atividades realizadas antes da matrícula como AC?",
+        "resposta_referencia": "Não. Somente atividades realizadas após o ingresso na UFBA podem ser validadas.",
+        "resposta_ia_ufba": "A Universidade procederá ao aproveitamento de estudos realizados na UFBA, em outra instituiço de ensino superior nacional credenciada ou em instituiço estrangeira similar, nos termos da legislaço em vigor e do Regulamento de Ensino de Graduaço e Pós Graduaço.  1o Excetuamse das exigências de laputa desta artigo os aproveitamentos provenientes aluno que há realizado estudos/atividades na UFBA ou em outra Instituiço de Ensino Superior devidamente credenciada. Atividade Curricular em Comunidade em Sociedade (ACCS) – é uma experiê"
+    },
+    {
+        "id": 6,
+        "pergunta": "Como funciona o sistema de matrícula para estudantes do BI?",
+        "resposta_referencia": "A matrícula ocorre via SIAC, respeitando prioridades por semestre, vagas disponíveis e pré-requisitos.",
+        "resposta_ia_ufba": "No caso de estudantes calouros/as/es, o trancamento de matrcula e/ou da inscriço parcial ou total em componentes curriculares podrá ser concedido se houver impedimento - que possa ser comprovado - para cursar no semestre de ingresso. Para tanto, o /a/e estudante deve abrir processo (acompanhado de documento comprobatório dos fatos alegados), que Resoluçes no 02/2017 e 06/2019, do Conselho Acadêmico de Ensino (CAE) da UFBA, e do edital, divulgado semestralmente, em cada processo seletivo, e con critrios especficos. Matrcula de ingresso na UFBA Matrcula de calouro"
+    },
+    {
+        "id": 7,
+        "pergunta": "Posso cursar disciplinas de qualquer unidade da UFBA?",
+        "resposta_referencia": "Sim. O BI permite ampla flexibilidade curricular, desde que os pré-requisitos sejam cumpridos.",
+        "resposta_ia_ufba": "aprovaço, descriço dos conceitos obtidos com os valores correspondes e perodos en que foram cumpridas as disciplinas e/ou atividades; disciplinas como componentes curiculares."
+    },
+    {
+        "id": 8,
+        "pergunta": "Como funcionam os pré-requisitos no BI?",
+        "resposta_referencia": "Algumas disciplinas exigem aprovação prévia em outras. Caso o pré-requisito não seja atendido, o sistema impede a matrícula.",
+        "resposta_ia_ufba": "No caso de componentes de outras unidades, pode haver esta exigência, que deberá ser respeitada pelos/as/es estudantes do IHAC. em paralelo com o pré-requisito.  1o Até cinco (05) dias após a concluso do periodo de inscriço em componentes curriculares a Coordenaço de Atendimento e de Registros Estudantis (CARE) disponibilizará, para os Colegiados, a relaço dos estudantes com paralelismo ou ausência de pré-requisito e/ou co-requisito."
+    },
+    {
+        "id": 9,
+        "pergunta": "O que acontece se eu não conseguir vaga em uma disciplina obrigatória?",
+        "resposta_referencia": "O estudante deve tentar novamente na rematrícula e, persistindo o problema, buscar a coordenação do BI para orientação.",
+        "resposta_ia_ufba": "Isso é importante atentar para isso."
+    },
+    {
+        "id": 10,
+        "pergunta": "O que é integralização do curso?",
+        "resposta_referencia": "É o processo de concluir todos os componentes obrigatórios e optativos, incluindo as 200h de AC, dentro do prazo máximo.",
+        "resposta_ia_ufba": "Art. 76. O aluno da pós-graduaço poderá ter a sua matrcula cancelada case: I - seja reprovado en dois componentes curriculares;"
+    },
+    {
+        "id": 11,
+        "pergunta": "Qual é o prazo máximo para concluir o BI na UFBA?",
+        "resposta_referencia": "O BI deve ser concluído em até 6 anos (12 semestres), conforme orientações institucionais.",
+        "resposta_ia_ufba": "cinco dias teis, sendo o processo objecto por dois semestres, consecutivos ou no, mesmo que ainda no tinha atingido o prazo máximo para aintegraço curricular (Art. 75. REGPG)."
+    },
+    {
+        "id": 12,
+        "pergunta": "O BI exige TCC?",
+        "resposta_referencia": "Não. Os Bacharelados Interdisciplinares não exigem Trabalho de Conclusão de Curso para integralização.",
+        "resposta_ia_ufba": "os BIs, ou seja, alguns cursos, aceitam somente egressos de determinado BI."
+    },
+    {
+        "id": 13,
+        "pergunta": "O que são componentes livres?",
+        "resposta_referencia": "São disciplinas escolhidas livremente pelo estudante em qualquer unidade, desde que cumpridos os pré-requisitos.",
+        "resposta_ia_ufba": "b) optativos – componentes complementares cujos contedos configuramse estreita relaço com a formaço pretendida, but que, individualmente, no so indispensáveis à integralizaço do curso; c) livres – contedos programáticos que no guardam, necessariamente, relaço direta com a formaço pretendida."
+    },
+    {
+        "id": 14,
+        "pergunta": "Quantos créditos preciso para me formar no BI?",
+        "resposta_referencia": "O curso requer 240 créditos, distribuídos entre obrigatórias, optativas e componentes livres.",
+        "resposta_ia_ufba": "a) cópia autenticada de Documento de identificaço; b) cópia do CPF; c) original do histórico atualizado, no qual constem cargas horárias, nmero de créditos"
+    },
+    {
+        "id": 15,
+        "pergunta": "Posso trancar disciplinas isoladamente?",
+        "resposta_referencia": "Não. Só é permitido o trancamento total de matrícula, não de disciplinas individuais.",
+        "resposta_ia_ufba": "FIQUE ATENTA/O/E: Acesse o site da SUPAC para baixar a folha de aproveitamento de estudos e anexar ao pedido. Cada BI tem 2.040h de disciplinas distribudas de formas diferentes (conforme se descrive a seguir) e 360h de atividades complementares, totalizando 2.400h."
+    },
+    {
+        "id": 16,
+        "pergunta": "Quantas vezes posso trancar o curso?",
+        "resposta_referencia": "O estudante pode trancar o curso até quatro semestres, mediante justificativa adequada.",
+        "resposta_ia_ufba": "1o Os estudantes referidos no inciso II têm que ter cursado, com aproveitamento, todas as disciplinas obrigatórias estabelecidas no fluxograma para os dois primeiros semestres do curso ou vinte por cento (20%) da carga horária total de the curso, aproximando-se para menos as frases inferiores a zero vrgula cinco (0,5) e para mais as frases iguais ou superiores a esse valor."
+    },
+    {
+        "id": 17,
+        "pergunta": "O que acontece se eu não fizer matrícula em nenhum semestre?",
+        "resposta_referencia": "A ausência de matrícula sem trancamento pode resultar em desligamento, conforme Regimento de Graduação.",
+        "resposta_ia_ufba": "o Sisu determina o perodo de matrcula, porém, cada curso tem uma data nica para isso. cheque o edital de ingresso! documents necessários certificado de concluso e histórico escolar completo do Ensino Médio; CPF; RG; certificado de quitaço com o Serviço Militar (para pessoas do sexo masculino maiores)"
+    },
+    {
+        "id": 18,
+        "pergunta": "Posso aproveitar componentes cursados em outro curso ou instituição?",
+        "resposta_referencia": "Sim, desde que apresentadas ementas e documentos oficiais para análise do colegiado.",
+        "resposta_ia_ufba": "X  encomendaço a instância competente solicitaço de providências que viabilizam o seu funcionamento; XI  planejar, semetralmente, a oferta de componentes curriculares e definir o horário dos mesmos, de forma a garantir o cumprimento do turno estabelecido para o curso; continuidade de estudos mais avançados, at through outros componente(s) curricular(es). Quando no projeto do curso estiver previsto cursar ou houver a recomendaço de inscriço de componentes curriculares em paralelo, configura-se a situaço de co-requisito. Processo seletivo - condiço exigida pela Lei No 9.394/96 para ingresso "
+    },
+    {
+        "id": 19,
+        "pergunta": "Como funciona a escolha de ênfase ou área de concentração nos BIs?",
+        "resposta_referencia": "O estudante pode direcionar sua formação cursando disciplinas associadas à área de interesse, sem necessidade de formalização.",
+        "resposta_ia_ufba": "as áreas de concentraço constituem o Eixo Especfico das etapas de formaço. elas podem ser cursadas a partir de três semestres do BI, mais o estudante pode optar por not cursá-la e manter-se na Grande rea. para conhecer as áreas de concentraço e os suas respectivas ingressar em uma rea de Concentraço, ou permanecer na Grande rea."
+    },
+    {
+        "id": 20,
+        "pergunta": "Como recebo orientação acadêmica no BI?",
+        "resposta_referencia": "A orientação é oferecida por professores tutores, colegiado, PROGRAD e canais institucionais disponíveis ao estudante.",
+        "resposta_ia_ufba": "I - acompanhar o desenvolvimento académico dos estudantes sobre sua orientaço; II - planejar, junto aos estudantes, um fluxo curricular compatvel com suas interesses e necessidades de exercicio académico; III - elaborar, junto o orientando, um plano adequado de estudos;"
+    }
+]

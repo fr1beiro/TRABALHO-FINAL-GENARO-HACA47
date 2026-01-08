@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "pergunta": "O que são Atividades Complementares (AC) no BI da UFBA?",
+    "resposta": "São componentes curriculares obrigatórios que ampliam a formação acadêmica, incluindo cursos, eventos, monitorias, extensão e pesquisa."
+  },
+  {
+    "id": 2,
+    "pergunta": "Quantas horas de AC são necessárias para concluir o Bacharelado Interdisciplinar?",
+    "resposta": "São necessárias 200 horas de Atividades Complementares para integralizar o BI."
+  },
+  {
+    "id": 3,
+    "pergunta": "Como posso comprovar minhas atividades complementares?",
+    "resposta": "A comprovação é feita por meio de certificados ou declarações oficiais enviados pelo SIGAA na aba 'Atividades Complementares'."
+  },
+  {
+    "id": 4,
+    "pergunta": "Quais tipos de atividades podem ser validadas como AC?",
+    "resposta": "Atividades de extensão, pesquisa, monitoria, curso livre, participação em eventos acadêmicos, CA, oficinas e atividades da PROEXT."
+  },
+  {
+    "id": 5,
+    "pergunta": "A UFBA aceita atividades realizadas antes da matrícula como AC?",
+    "resposta": "Não. Somente atividades realizadas após o ingresso na UFBA podem ser validadas."
+  },
+  {
+    "id": 6,
+    "pergunta": "Como funciona o sistema de matrícula para estudantes do BI?",
+    "resposta": "A matrícula ocorre via SIAC, respeitando prioridades por semestre, vagas disponíveis e pré-requisitos."
+  },
+  {
+    "id": 7,
+    "pergunta": "Posso cursar disciplinas de qualquer unidade da UFBA?",
+    "resposta": "Sim. O BI permite ampla flexibilidade curricular, desde que os pré-requisitos sejam cumpridos."
+  },
+  {
+    "id": 8,
+    "pergunta": "Como funcionam os pré-requisitos no BI?",
+    "resposta": "Algumas disciplinas exigem aprovação prévia em outras. Caso o pré-requisito não seja atendido, o sistema impede a matrícula."
+  },
+  {
+    "id": 9,
+    "pergunta": "O que acontece se eu não conseguir vaga em uma disciplina obrigatória?",
+    "resposta": "O estudante deve tentar novamente na rematrícula e, persistindo o problema, buscar a coordenação do BI para orientação."
+  },
+  {
+    "id": 10,
+    "pergunta": "O que é integralização do curso?",
+    "resposta": "É o processo de concluir todos os componentes obrigatórios e optativos, incluindo as 200h de AC, dentro do prazo máximo."
+  },
+  {
+    "id": 11,
+    "pergunta": "Qual é o prazo máximo para concluir o BI na UFBA?",
+    "resposta": "O BI deve ser concluído em até 6 anos (12 semestres), conforme orientações institucionais."
+  },
+  {
+    "id": 12,
+    "pergunta": "O BI exige TCC?",
+    "resposta": "Não. Os Bacharelados Interdisciplinares não exigem Trabalho de Conclusão de Curso para integralização."
+  },
+  {
+    "id": 13,
+    "pergunta": "O que são componentes livres?",
+    "resposta": "São disciplinas escolhidas livremente pelo estudante em qualquer unidade, desde que cumpridos os pré-requisitos."
+  },
+  {
+    "id": 14,
+    "pergunta": "Quantos créditos preciso para me formar no BI?",
+    "resposta": "O curso requer 240 créditos, distribuídos entre obrigatórias, optativas e componentes livres."
+  },
+  {
+    "id": 15,
+    "pergunta": "Posso trancar disciplinas isoladamente?",
+    "resposta": "Não. Só é permitido o trancamento total de matrícula, não de disciplinas individuais."
+  },
+  {
+    "id": 16,
+    "pergunta": "Quantas vezes posso trancar o curso?",
+    "resposta": "O estudante pode trancar o curso até quatro semestres, mediante justificativa adequada."
+  },
+  {
+    "id": 17,
+    "pergunta": "O que acontece se eu não fizer matrícula em nenhum semestre?",
+    "resposta": "A ausência de matrícula sem trancamento pode resultar em desligamento, conforme Regimento de Graduação."
+  },
+  {
+    "id": 18,
+    "pergunta": "Posso aproveitar componentes cursados em outro curso ou instituição?",
+    "resposta": "Sim, desde que apresentadas ementas e documentos oficiais para análise do colegiado."
+  },
+  {
+    "id": 19,
+    "pergunta": "Como funciona a escolha de ênfase ou área de concentração nos BIs?",
+    "resposta": "O estudante pode direcionar sua formação cursando disciplinas associadas à área de interesse, sem necessidade de formalização."
+  },
+  {
+    "id": 20,
+    "pergunta": "Como recebo orientação acadêmica no BI?",
+    "resposta": "A orientação é oferecida por professores tutores, colegiado, PROGRAD e canais institucionais disponíveis ao estudante."
+  }
+]

@@ -11,6 +11,11 @@ RAG (Retrieval-Augmented Generation) com modelos locais.
 - Flan-T5 (Google)
 - PDFs institucionais da UFBA
 
+
+## Link apresentação
+- https://drive.google.com/drive/u/0/folders/1gAgh6r-9ZyQvmX8rf9T0ZTAj-g7LmHL_
+
+
 ## Instalação
 
 1.Extrair o arquivo zip.
@@ -30,6 +35,3 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 
-
-## Link apresentação
-- https://drive.google.com/drive/u/0/folders/1gAgh6r-9ZyQvmX8rf9T0ZTAj-g7LmHL_

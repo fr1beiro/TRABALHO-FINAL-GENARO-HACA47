@@ -11,6 +11,11 @@ RAG (Retrieval-Augmented Generation) com modelos locais.
 - Flan-T5 (Google)
 - PDFs institucionais da UFBA
 
+## Criadores
+- Alana Emilly Bulhões
+- Atalla Alexssandra 
+- Fabio Ribeiro 
+- Raissa Vitoria pereira
 
 ## Link apresentação
 - https://drive.google.com/drive/u/0/folders/1gAgh6r-9ZyQvmX8rf9T0ZTAj-g7LmHL_
